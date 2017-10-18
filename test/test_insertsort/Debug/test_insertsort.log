@@ -1,0 +1,13 @@
+﻿生成启动时间为 2017/8/12 16:14:47。
+     1>项目“G:\vc++\test\test_insertsort\test_insertsort.vcxproj”在节点 5 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 1116.cpp
+         1116.cpp
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\vc++\test\Debug\test_insertsort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\vc++\test\Debug\test_insertsort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\vc++\test\Debug\test_insertsort.lib" /MACHINE:X86 Debug\1116.obj
+         test_insertsort.vcxproj -> G:\vc++\test\Debug\test_insertsort.exe
+     1>已完成生成项目“G:\vc++\test\test_insertsort\test_insertsort.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.56
